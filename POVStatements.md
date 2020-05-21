@@ -21,20 +21,20 @@ DEVELOPERS
 AIRPORTS
 
   USER 
-  //insert
+  Airports that cater for the holiday packages provided by the travel company 
   NEED 
-  //insert
+  Airport staff and airport space is fully utilised 
   INSIGHT 
-  //insert
+  Airport visitors are using other holiday packages from other travel companies 
 
 RMs
 
   USER 
-  //insert
+  Relationship Managers of the travel company
   NEED 
-  //insert
+  To be able to respond to customer requests at all times and make a high level of holiday package sales 
   INSIGHT 
-  //insert
+  The current CMC system directs customers to Relationship Managers who are unable to respond to their request which creates unhappy customers and a loss of sales. 
 
 CUSTOMERS
 
