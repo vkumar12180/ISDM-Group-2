@@ -109,7 +109,20 @@ Section 1: Problem Definition
 Section 2: Ideation
 
   2.1 Reflections
-  Notes: 200-300 word reflection for each POV statement/empathy map?
+  
+    Several assumptions were made about the given brief and will be fleshed out through the body of this reflection. The broadest 
+    assumption that was made was that the Travel Company’s current Call Management Centre (CMC) was a detriment to all aspects of the 
+    business. The current CMC does not compare to other travel company CMC’s and this technological hindrance means that other companies 
+    have the competitive advantage. Further, it is assumed that the current CMC is causing dissatisfaction with customers as it is too 
+    hard to reach an appropriate RM and the packages are hard to understand. This dissatisfaction means that customers turn to other 
+    travel companies for a better customer service experience resulting in loss of business and revenue. It is also assumed that the 
+    current CMC is difficult for RMs to work with, making it too difficult to reach customers and making the job they work frustrating. 
+    This goes further to assume that the travel company expects that RMs thoroughly learn and understand the product offering despite it 
+    being outside their specialised knowledge. The current convoluted CMC system makes learning this information difficult and makes 
+    reaching customers harder. Since RMs work on commission, this difficulty to receive customers means that employees will not want to 
+    stay at the company. These all compound to result in a loss of employees within the company meaning there are less RMs to serve 
+    customers. Finally, it is assumed that airports, aviation companies and cruise companies work with the travel company to promote 
+    holiday packages and holiday deals. 
 
   2.2 How Might We Statements
     
