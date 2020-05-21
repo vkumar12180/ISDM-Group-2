@@ -29,19 +29,68 @@ Section 5: Agile Methodology	5
 Section 1: Problem Definition
 
   1.1 Objectives 
-  Notes: objectives of what is going to be achieved in this report
+    
+    This report seeks to develop a Call Management Centre (CMC) through the Design 
+    Thinking process in response to the issues brought up by the major Travel 
+    Company.  This process utilises the designer’s sensibility to help develop a 
+    creative and groundbreaking yet technologically feasible product that the 
+    client can use to take business strategy and convert it into customer value 
+    and competitive advantage within the market. This report will go through the 
+    steps of the design thinking process to ensure the brief is approached 
+    systematically but without the rigidity of common software development 
+    processes. The main objectives of this report is to: 
+
+      1. Develop documentation for a creative yet technologically feasible Call 
+      Management Centre product 
+      
+      2. Develop a clear understanding of the desires of all stakeholders involved 
+      within the upgrade of the Call Management Centre
+      
+      3. Develop several approaches to the problem to ensure many options are 
+      provided for the client
+      
+      4. Develop comprehensive diagrams to understand the relationships across 
+      different components of the Call Management Centre
+      
+      5. Reflect upon the developed ideas to understand the potential for 
+      competitive advantage
+      
+      6. Reflect upon the developed ideas to understand the impact of failure on 
+      the system
+      
+      7. Explain Agile methodology and utilise it within the scope of this report       by taking activities from Scrum
 
   1.2 Assumptions
-  Note: 
+  
+    Several assumptions have been made about the given brief to help clarify and 
+    justify the reasoning behind our creative decisions as well as about certain 
+    diagrams. These assumptions are as follows: 
+      1.
+      
+      2. 
+      
+      3.
 
   1.3 List of Stakeholders 
+  
+    - Travel Company 
+    - RMs
+    - Customers
+    - Developers and managers (us) 
+    - System Admin
+    - Aviation companies 
+    - Cruise companies 
+    - Airports
 
   1.4 Empathy Maps 
-  Note: one empathy map per stakeholder? 
+    
+    See "EmpathyCharts.md"
 
   1.5 POV Statements
-  Note: don’t really know what a POV statement is but that’s okay
-
+  
+    See "POVStatements.md"
+    
+------------------------------------------------------------------------------    
 
 Section 2: Ideation
 
