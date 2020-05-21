@@ -1,14 +1,14 @@
-HMW Statements will be written within this file with the contibutors listed
+# HMW Statements will be written within this file with the contibutors listed
 
-TRAVEL COMPANY - name 
+## TRAVEL COMPANY - name 
 
   // statement 
 
-DEVELOPERS - name
+## DEVELOPERS - name
 
   // statement
 
-AIRPORTS - Vishaal 
+## AIRPORTS - Vishaal 
   
   We met .. the management from several airports that have an alliance with the Travel Company
 
@@ -20,7 +20,7 @@ AIRPORTS - Vishaal
 
     How might we be able to improve the reputation and increase the sales for the travel company. 
 
-RMs - Vishaal
+## RMs - Vishaal
 
    We met .. the Relationship Managers employed at the Travel Company
     
@@ -32,18 +32,18 @@ RMs - Vishaal
 
     How might we be able improve the CMC so that RMs are able to fully utilise their expertise to create sales. 
 
-CUSTOMERS - name
+## CUSTOMERS - name
 
   //statement
 
-SYSTEM ADMIN - name
+## SYSTEM ADMIN - name
   
   //statement
 
-AVIATION COMPANIES - name
+## AVIATION COMPANIES - name
 
   //statement
 
-CRUISE COMPANIES - name
+## CRUISE COMPANIES - name
 
   //statement
