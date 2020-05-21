@@ -74,6 +74,17 @@ Section 1: Problem Definition
       5. The travel company management expects for RMs to learn more about the product offering which is outside their specialised   
       knowledge
       
+      6. Airports and the Travel Company form an alliance on the holiday packages offered to maximise customer service
+      
+      7. Cruise companies form partnerships with the Travel Company when promoting holiday packages. 
+      
+      8.Aviation companies form partnerships with the Travel Company when promoting holiday packages. 
+      
+      9. Relationship Managers receive a commission based income based on the number of holiday packages they sell. 
+      
+      10. There is a higher staff turnover at the Travel Company.
+
+      
   1.3 List of Stakeholders 
   
     - Travel Company 
