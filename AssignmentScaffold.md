@@ -30,15 +30,12 @@ Section 1: Problem Definition
 
   1.1 Objectives 
     
-    This report seeks to develop a Call Management Centre (CMC) through the Design 
-    Thinking process in response to the issues brought up by the major Travel 
-    Company.  This process utilises the designer’s sensibility to help develop a 
-    creative and groundbreaking yet technologically feasible product that the 
-    client can use to take business strategy and convert it into customer value 
-    and competitive advantage within the market. This report will go through the 
-    steps of the design thinking process to ensure the brief is approached 
-    systematically but without the rigidity of common software development 
-    processes. The main objectives of this report is to: 
+    This report seeks to develop a Call Management Centre (CMC) through the Design Thinking process in response to the issues brought up 
+    by the major Travel Company.  This process utilises the designer’s sensibility to help develop a  creative and groundbreaking yet 
+    technologically feasible product that the client can use to take business strategy and convert it into customer value and 
+    competitive advantage within the market. This report will go through the steps of the design thinking process to ensure the brief is 
+    approached systematically but without the rigidity of common software development processes. The main objectives of this report is 
+    to: 
 
       1. Develop documentation for a creative yet technologically feasible Call 
       Management Centre product 
@@ -58,19 +55,25 @@ Section 1: Problem Definition
       6. Reflect upon the developed ideas to understand the impact of failure on 
       the system
       
-      7. Explain Agile methodology and utilise it within the scope of this report       by taking activities from Scrum
+      7. Explain Agile methodology and utilise it within the scope of this report by taking activities from Scrum
 
   1.2 Assumptions
   
     Several assumptions have been made about the given brief to help clarify and 
     justify the reasoning behind our creative decisions as well as about certain 
     diagrams. These assumptions are as follows: 
-      1.
+    
+      1. Competing travel companies have a more advanced CMC than the travel company’s 
       
-      2. 
+      2. The current CMC is causing customer dissatisfaction 
       
-      3.
-
+      3. The current CMC is causing a loss of sales 
+      
+      4. The current CMC is difficult and inefficient to use and as such, the travel company is losing employees 
+      
+      5. The travel company management expects for RMs to learn more about the product offering which is outside their specialised   
+      knowledge
+      
   1.3 List of Stakeholders 
   
     - Travel Company 
