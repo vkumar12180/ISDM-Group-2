@@ -1,20 +1,22 @@
 TRAVEL COMPANY
 
   USER 
-  //insert
+    Travel Company that is providing travel packages to consumers
   NEED 
-  //insert
+    Call management centre to be improved to help improve their business
   INSIGHT 
-  //insert
+    Current system is outdated and is losing both customers and employees for the company 
 
 DEVELOPERS
 
   USER 
-  //insert
+    Developers that are working on the CMC system for the Travel Company
   NEED 
-  //insert
+    Time and resources to develop the CMC for the Travel Company
   INSIGHT 
-  //insert
+    Developers need a relaxing, low-stress environment with ample time for them to think clearly so that they are able to
+    develop a system to the best of their abilities.
+
 
 AIRPORTS
 
