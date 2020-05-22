@@ -1,6 +1,6 @@
 # HMW Statements will be written within this file with the contibutors listed
 
-## TRAVEL COMPANY - name 
+## TRAVEL COMPANY - Sarah 
 
   We met...the management of the Travel Company that has asked us to develop and manage the new CMC.
 
@@ -13,7 +13,7 @@
     How might we develop a high quality, technologically advanced CMC in a short timeline to ensure that more customers and employees do not leave the company, thus revitalising the business? 
   
 
-## DEVELOPERS - name
+## DEVELOPERS - Sarah
 
   We met...the developers put in charge of creating and updating the current CMC.
 
