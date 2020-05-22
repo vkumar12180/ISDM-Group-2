@@ -37,40 +37,34 @@ RMs
   The current CMC system directs customers to Relationship Managers who are unable to respond to their request which creates unhappy customers and a loss of sales. 
 
 CUSTOMERS
-
-  USER 
-  //insert
-  NEED 
-  //insert
-  INSIGHT 
-  //insert
-
+ 
+USER
+Customers (existing and potential) for the Travel Company that is providing travel packages and telemarketing
+NEED
+Travel Company’s to understand their needs and be a convenient option
+INSIGHT
+The Travel Company seems disorganised and it doesn’t feel like they understand me
+ 
+ 
 SYSTEM ADMIN
+ 
+USER
+System Administrators working for the Travel Company, managing it’s systems and responding to management enquiries about their digital workflow
+NEED
+For the internal system to provide an extensive set of tools to enable them to do their jobs.
+INSIGHT
+The current internal system is dated, doesn’t provide any metric tracking features needed, and required constant maintenance
 
-  USER 
-  //insert
-  NEED 
-  //insert
-  INSIGHT 
-  //insert
 
-AVIATION COMPANIES
 
-  USER 
-  //insert
-  NEED 
-  //insert
-  INSIGHT 
-  //insert
+AVIATION & CRUISE COMPANIES
 
-CRUISE COMPANIES
-
-  USER 
-  //insert
-  NEED 
-  //insert
-  INSIGHT 
-  //insert
+USER 
+Aviation and Cruise Company that is providing modes of transportation to customers
+NEED 
+To get customers to their desired location in a quick and comfortable manor 
+INSIGHT 
+Current operation isn’t profitable enough 
 
 
 
