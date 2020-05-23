@@ -73,21 +73,19 @@ Section 1: Problem Definition
       
       5. The travel company management expects for RMs to learn more about the product offering which is outside their specialised   
       knowledge
+            
+      6. Cruise companies form partnerships with the Travel Company when promoting holiday packages. 
       
-      6. Airports and the Travel Company form an alliance on the holiday packages offered to maximise customer service
+      7. Aviation companies form partnerships with the Travel Company when promoting holiday packages. 
       
-      7. Cruise companies form partnerships with the Travel Company when promoting holiday packages. 
+      8. Relationship Managers receive a commission based income based on the number of holiday packages they sell. 
       
-      8. Aviation companies form partnerships with the Travel Company when promoting holiday packages. 
+      9. There is a higher staff turnover at the Travel Company.
       
-      9. Relationship Managers receive a commission based income based on the number of holiday packages they sell. 
-      
-      10. There is a higher staff turnover at the Travel Company.
-      
-      11. While the aviation and cruise companies are technically different, their individual relationships with the Travel Company are 
+      10. While the aviation and cruise companies are technically different, their individual relationships with the Travel Company are 
       essentially the same and as such, are treated as one in most (if not all) aspects of this report
       
-      12. Developers and System Admin are two different entities and are treated as such throughout the body of this report.
+      11. Developers and System Admin are two different entities and are treated as such throughout the body of this report.
 
       
   1.3 List of Stakeholders 
@@ -99,7 +97,7 @@ Section 1: Problem Definition
     - System Admin
     - Aviation companies 
     - Cruise companies 
-    - Airports
+ 
 
   1.4 Empathy Maps 
     
