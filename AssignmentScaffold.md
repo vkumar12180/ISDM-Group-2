@@ -169,7 +169,28 @@ Section 2: Ideation
 Section 3: Modelling 
 
   3.1 User Stories
-  Notes: for the purpose of putting them into use cases - only need 4 user stories
+  RMs
+  
+    AS A 
+      Relationship Manager 
+    I WANT 
+      Customers who are interested in holiday packages that I have knowledge and expertise on 
+    SO THAT
+      I am able to cater to their request and generate a holiday package sale
+
+    AS A 
+      Relationship Manager 
+    I WANT 
+      To be able to cold call prospects interested in holiday packages that I have knowledge and expertise on
+    SO THAT
+      My time is not wasted cold calling uninterested prospects and maximising my chances of making a sale.
+
+    AS A 
+      Relationship Manager 
+     I WANT 
+      Access to a customer’s age, gender, ethnicity and travel related interests
+     SO THAT
+      I have information of a customer to ensure I am able to provide high levels of customer service. 
 
   3.2 Use Case Diagrams
   Notes: one each
