@@ -25,17 +25,6 @@
 
     How might we ensure the developers are performing to the best of their ability whilst embodying all the desired features of the travel company? 
 
-## AIRPORTS - Vishaal 
-  
-  We met .. the management from several airports that have an alliance with the Travel Company
-
-  We were surprised to notice .. the low sales from the Travel Company meant that airport staff were not fully utilised and physical space at the airports that was dedicated for queues and promoting banners from the Travel Company’s holiday packages were being wasted. 
-
-  We wonder if this means…that the airport will reconsider their alliances with the Travel Companies if the travel company’s sales are consistently low. 
-
-  It would be game changing to..improve the CMC system of the Travel Company to ensure that sales are high. 
-
-    How might we be able to improve the reputation and increase the sales for the travel company. 
 
 ## RMs - Vishaal
 
