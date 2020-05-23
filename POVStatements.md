@@ -18,15 +18,6 @@ DEVELOPERS
     develop a system to the best of their abilities.
 
 
-AIRPORTS
-
-  USER 
-  Airports that cater for the holiday packages provided by the travel company 
-  NEED 
-  Airport staff and airport space is fully utilised 
-  INSIGHT 
-  Airport visitors are using other holiday packages from other travel companies 
-
 RMs
 
   USER 
