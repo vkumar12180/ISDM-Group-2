@@ -57,10 +57,16 @@
   
   //statement
 
-## AVIATION COMPANIES - name
+## AVIATION COMPANIES & CRUISE COMPANIES - name
 
-  //statement
 
-## CRUISE COMPANIES - name
+  We met .. the representatives from aviation and cruise companies that have a partnership with the Travel Company. 
 
-  //statement
+  We were surprised to notice .. the low sales from the Travel Company meant that that Aviation and Cruise Companies were not maximising their profits.
+ 
+  We wonder if this means…that the aviation and cruise companies will reconsider their alliances with the Travel Companies if the travel company’s sales are consistently low. 
+
+  It would be game changing to..improve the CMC system of the Travel Company to ensure that sales are high. 
+
+    How might we be able to improve the reputation and increase the sales for the travel company in order to ensure high profits for Aviation and Cruise Companies. 
+
