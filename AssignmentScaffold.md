@@ -219,30 +219,30 @@ Section 3: Modelling
     I WANT 
       To bring in new customers and more business
     SO THAT
-    We are able to benefit our company as well as the airlines and cruise companies who work with us
+      We are able to benefit our company as well as the airlines and cruise companies who work with us
     
   Developers
   
     AS A 
       Developer
     I WANT 
-    To develop a Call Management Centre for the Travel Company since this is the task we’d be hired for
+      To develop a Call Management Centre for the Travel Company since this is the task we’d be hired for
     SO THAT
-    We are able to get paid and move onto new jobs. 
+      We are able to get paid and move onto new jobs. 
 
     AS A 
       Developer
     I WANT 
-    A comfortable environment to work without the pressures of a strict timeline or unreasonable managers
+      A comfortable environment to work without the pressures of a strict timeline or unreasonable managers
     SO THAT
-    We are not too stressed and are able to do the best work we can given the project brief and specifications. 
+      We are not too stressed and are able to do the best work we can given the project brief and specifications. 
 
     AS A 
       Developer
     I WANT 
-    Early notification of any changes to the specifications such as new features or changes to original features
+      Early notification of any changes to the specifications such as new features or changes to original features
     SO THAT
-    We are able to change the product as early as possible without interfering with future code. 
+      We are able to change the product as early as possible without interfering with future code. 
 
   3.2 Use Case Diagrams
   Notes: one each
