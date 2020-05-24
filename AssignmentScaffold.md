@@ -191,6 +191,58 @@ Section 3: Modelling
       Access to a customer’s age, gender, ethnicity and travel related interests
      SO THAT
       I have information of a customer to ensure I am able to provide high levels of customer service. 
+    
+   Travel Company
+   
+    AS A 
+      Travel Company
+    I WANT 
+      My employees to be thoroughly trained
+    SO THAT
+      They are able to provide the best service to the business’ customers
+
+    AS A 
+      Travel Company
+    I WANT 
+      A new Call Management Centre system
+    SO THAT
+      We are able to revitalise our business by impressing customers and aiding employees
+
+    AS A 
+      Travel Company
+    I WANT 
+      To have competitive prices on holiday packages within the market
+    SO THAT
+      We are able to draw in customers to purchase packages from us 
+    AS A 
+      Travel Company
+    I WANT 
+      To bring in new customers and more business
+    SO THAT
+    We are able to benefit our company as well as the airlines and cruise companies who work with us
+    
+  Developers
+  
+    AS A 
+      Developer
+    I WANT 
+    To develop a Call Management Centre for the Travel Company since this is the task we’d be hired for
+    SO THAT
+    We are able to get paid and move onto new jobs. 
+
+    AS A 
+      Developer
+    I WANT 
+    A comfortable environment to work without the pressures of a strict timeline or unreasonable managers
+    SO THAT
+    We are not too stressed and are able to do the best work we can given the project brief and specifications. 
+
+    AS A 
+      Developer
+    I WANT 
+    Early notification of any changes to the specifications such as new features or changes to original features
+    SO THAT
+    We are able to change the product as early as possible without interfering with future code. 
 
   3.2 Use Case Diagrams
   Notes: one each
