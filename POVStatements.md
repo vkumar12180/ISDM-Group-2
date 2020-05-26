@@ -51,7 +51,7 @@ The current internal system is dated, doesn’t provide any metric tracking feat
 AIRLINE COMPANIES
 
 USER 
-Aviation and Cruise Company that is providing modes of transportation to customers
+Airline Company that is providing modes of transportation to customers
 NEED 
 To get customers to their desired location in a quick and comfortable manor 
 INSIGHT 
