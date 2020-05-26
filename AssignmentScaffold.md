@@ -76,13 +76,13 @@ Section 1: Problem Definition
       
       6. The holiday packages offered by  the Travel Company are only forms of holidays that involve airlines only.
       
-      7. Aviation companies form partnerships with the Travel Company when promoting holiday packages. 
+      7. Airline companies form partnerships with the Travel Company when promoting holiday packages. 
       
       8. Relationship Managers receive a commission based income based on the number of holiday packages they sell. 
       
       9. There is a higher staff turnover at the Travel Company.
       
-      10. While the aviation and cruise companies are technically different, their individual relationships with the Travel Company are 
+      10. While the airline companies are technically different, their individual relationships with the Travel Company are 
       essentially the same and as such, are treated as one in most (if not all) aspects of this report
       
       11. Developers and System Admin are two different entities and are treated as such throughout the body of this report.
