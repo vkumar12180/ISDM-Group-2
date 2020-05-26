@@ -36,7 +36,7 @@
 
    It would be gamechanging to..improve the CMC system of the Travel Company to ensure that RMs are able to make sales to happy customers and feel satisfied. 
 
-    How might we be able improve the CMC so that RMs are able to fully utilise their expertise to create sales. 
+    How might we be able improve the CMC so that RMs are able to fully utilise their expertise to create sales? 
 
 ## CUSTOMERS - Christopher
 
@@ -48,7 +48,7 @@
 
 **It would be gamechanging to** develop an automated system where the existing data we collect can be used to generate better matched recommendations for travel and accommodation.
 
-    How might we might data with a new and imporved CMC to deliver fast, accurate and personalised recommendations for our customers.
+    How might we might data with a new and imporved CMC to deliver fast, accurate and personalised recommendations for our customers?
 
 ## SYSTEM ADMIN - Christopher
   
@@ -60,7 +60,7 @@
 
 **It would be gamechanging to** develop a new toolset alongside an improved system where these complex queries can be performed with ease.
 
-    How might we utilise database queries and a new intuitive UI within the CMC to build a powerful toolkit for system administrations.
+    How might we utilise database queries and a new intuitive UI within the CMC to build a powerful toolkit for system administrations?
 
 ## AVIATION COMPANIES & CRUISE COMPANIES - name
 
@@ -73,5 +73,5 @@
 
   It would be game changing to..improve the CMC system of the Travel Company to ensure that sales are high. 
 
-    How might we be able to improve the reputation and increase the sales for the travel company in order to ensure high profits for Aviation and Cruise Companies. 
+    How might we be able to improve the reputation and increase the sales for the travel company in order to ensure high profits for Aviation and Cruise Companies? 
 
