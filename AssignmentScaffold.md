@@ -239,6 +239,36 @@ Section 3: Modelling
       Early notification of any changes to the specifications such as new features or changes to original features
     SO THAT
       We are able to change the product as early as possible without interfering with future code. 
+      
+  Airline Company
+  
+  AS AN 
+	  Airline company
+  I WANT 
+    More customers coming from the travel company  
+  SO THAT
+    We can increase our total profit
+
+  AS AN 
+	  Airline company
+  I WANT 
+    Customers to have a good experience with the CMC  
+  SO THAT
+    They have an overall better experience travelling with us increasing company reputation
+
+  AS AN 
+    Airline company
+  I WANT 
+    The holiday package lines to be full
+  SO THAT
+    Space is not wasted in the airport
+
+  AS AN 
+    Airline company
+  I WANT 
+    The holiday packages to be regularly used  
+  SO THAT
+    Staff is not wasted waiting on non-existent customers
 
   3.2 Use Case Diagrams
   Notes: one each
