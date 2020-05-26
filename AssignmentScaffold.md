@@ -271,21 +271,24 @@ Section 3: Modelling
     Staff is not wasted waiting on non-existent customers
 
   3.2 Use Case Diagrams
-  Notes: one each
+	
+	See "UCDiagram.md"  
 
   3.3 Activity Diagrams
-  Notes: based on use case diagrams
+  
+  	See "ADDiagram.md"
 
   3.4 Class Diagrams
-  Notes: based on activity diagrams
+  
+  	See "ClassDiagram.md"
 
   3.5 Collaborative Diagrams
-  Notes: based on activity diagrams as well
+  
+  	See "CollabDiagrams.md"
 
 Section 4: Competitive Advantage
 
   4.1 Competitive Advantage
-  Notes: 3.1 and 3.2 should be aruond 500 words together
 
   4.2 Impact of Failure
 
@@ -294,5 +297,6 @@ Section 5: Agile Methodology
   5.1 Scrum Activities Used
 
   5.2 Explanation and Evidence of Activities Used
+  
   Notes: Recording the intention, rationale, and focus of each system’s development iteration using commit messages, project boards, and issue tracking (opening/closing) capabilities (from assignment outline)
 
