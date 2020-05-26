@@ -82,10 +82,7 @@ Section 1: Problem Definition
       
       9. There is a higher staff turnover at the Travel Company.
       
-      10. While the airline companies are technically different, their individual relationships with the Travel Company are 
-      essentially the same and as such, are treated as one in most (if not all) aspects of this report
-      
-      11. Developers and System Admin are two different entities and are treated as such throughout the body of this report.
+      10. Developers and System Admin are two different entities and are treated as such throughout the body of this report.
 
       
   1.3 List of Stakeholders 
