@@ -38,13 +38,29 @@
 
     How might we be able improve the CMC so that RMs are able to fully utilise their expertise to create sales. 
 
-## CUSTOMERS - name
+## CUSTOMERS - Christopher
 
-  //statement
+**We met** with some of the potential and existing customers of the Travel Company that were contacted by phone.
+   
+**We were surprised to notice** that many felt that their personal needs were not being understood.
+   
+**We wonder if this means** our current process of personalising our recommendations is falling short of expectations.
 
-## SYSTEM ADMIN - name
+**It would be gamechanging to** develop an automated system where the existing data we collect can be used to generate better matched recommendations for travel and accommodation.
+
+    How might we might data with a new and imporved CMC to deliver fast, accurate and personalised recommendations for our customers.
+
+## SYSTEM ADMIN - Christopher
   
-  //statement
+**We met** with the system administrators of the Travel Company.
+   
+**We were surprised to notice** that many saw the current system and its toolset to be lacking in sophistication to respond to management enquiries.
+   
+**We wonder if this means** significant valuable time is wasted by system administrators that could be better spent maintaining the system.
+
+**It would be gamechanging to** develop a new toolset alongside an improved system where these complex queries can be performed with ease.
+
+    How might we utilise database queries and a new intuitive UI within the CMC to build a powerful toolkit for system administrations.
 
 ## AVIATION COMPANIES & CRUISE COMPANIES - name
 
