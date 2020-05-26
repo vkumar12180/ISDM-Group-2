@@ -16,9 +16,9 @@ History of changes:
   Editor: Sarah
   Comment: Formatted the charts slightly to make them look nicer 
   
-  Date:
-  Editor:
-  Comment:
+  Date: 21/05/2020
+  Editor: Sarah
+  Comment: Completed both my assigned empathy charts (i.e. Customers and System Admin)
   
   Date:
   Editor:
