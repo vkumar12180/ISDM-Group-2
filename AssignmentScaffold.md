@@ -73,8 +73,8 @@ Section 1: Problem Definition
       
       5. The travel company management expects for RMs to learn more about the product offering which is outside their specialised   
       knowledge
-            
-      6. Cruise companies form partnerships with the Travel Company when promoting holiday packages. 
+      
+      6. The holiday packages offered by  the Travel Company are only forms of holidays that involve airlines only.
       
       7. Aviation companies form partnerships with the Travel Company when promoting holiday packages. 
       
@@ -95,8 +95,7 @@ Section 1: Problem Definition
     - Customers
     - Developers and managers (us) 
     - System Admin
-    - Aviation companies 
-    - Cruise companies 
+    - Airline companies 
  
 
   1.4 Empathy Maps 
@@ -124,7 +123,7 @@ Section 2: Ideation
     being outside their specialised knowledge. The current convoluted CMC system makes learning this information difficult and makes 
     reaching customers harder. Since RMs work on commission, this difficulty to receive customers means that employees will not want to 
     stay at the company. These all compound to result in a loss of employees within the company meaning there are less RMs to serve 
-    customers. Finally, it is assumed that airports, aviation companies and cruise companies work with the travel company to promote 
+    customers. Finally, it is assumed that airline companies work with the travel company to promote 
     holiday packages and holiday deals. 
 
   2.2 How Might We Statements
