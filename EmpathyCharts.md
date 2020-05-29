@@ -20,6 +20,6 @@ History of changes:
   Editor: Sarah
   Comment: Completed both my assigned empathy charts (i.e. Customers and System Admin)
   
-  Date:
-  Editor:
-  Comment:
+  Date: 22/05/2020
+  Editor: Daniel
+  Comment: Completed my assigned empathy chart (i.e. airline companies)
