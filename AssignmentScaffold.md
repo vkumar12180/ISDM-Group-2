@@ -37,25 +37,19 @@ Section 1: Problem Definition
     approached systematically but without the rigidity of common software development processes. The main objectives of this report is 
     to: 
 
-      1. Develop documentation for a creative yet technologically feasible Call 
+      1. To create an innovative yet technologically feasible Call 
       Management Centre product 
       
-      2. Develop a clear understanding of the desires of all stakeholders involved 
+      2. To create a product that will embody the desires of all stakeholders involved 
       within the upgrade of the Call Management Centre
       
-      3. Develop several approaches to the problem to ensure many options are 
-      provided for the client
+      3. Develop many features that are desired by the client so they are able to have many options to choose from
       
-      4. Develop comprehensive diagrams to understand the relationships across 
-      different components of the Call Management Centre
+      4. To develop comprehensive diagrams for the client so they are able to understand the flow of data and methods
       
-      5. Reflect upon the developed ideas to understand the potential for 
-      competitive advantage
-      
-      6. Reflect upon the developed ideas to understand the impact of failure on 
-      the system
-      
-      7. Explain Agile methodology and utilise it within the scope of this report by taking activities from Scrum
+      5. To show the client the competitive advantage they may achieve as a result of the developed product and to warn them of potential impacts of failure
+           
+      7. To develop the product using an Agile process
 
   1.2 Assumptions
   
