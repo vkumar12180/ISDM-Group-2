@@ -217,6 +217,36 @@ Section 3: Modelling
     SO THAT
       We are able to benefit our company as well as the airlines and cruise companies who work with us
     
+  Customer
+   
+    AS A 
+      Customer
+    I WANT 
+      To have my details and situation saved
+    SO THAT
+      I only need to explain it once and don't have to go through it again with every call
+
+    AS A 
+      Customer
+    I WANT 
+      To have travel and accomodation recommendations matched to my needs
+    SO THAT
+      I receive only relevant suggestions and can organise my holiday efficiently
+
+    AS A 
+      Customer
+    I WANT 
+      My call to be routed and answered quickly
+    SO THAT
+      I'm not wasting a lot of time waiting on hold
+      
+    AS A 
+      Customer
+    I WANT 
+      To be able to organise a call back time
+    SO THAT
+      I can fit this recommendation and booking process to my schedule  
+    
   Developers
   
     AS A 
@@ -239,36 +269,66 @@ Section 3: Modelling
       Early notification of any changes to the specifications such as new features or changes to original features
     SO THAT
       We are able to change the product as early as possible without interfering with future code. 
+  
+  System Admin
+  
+    AS A 
+      System Admin
+    I WANT 
+      To have a visual dashboard with the current state of the system
+    SO THAT
+      I can easily monitor the system for active issues or outages
+      
+    AS A 
+      System Admin
+    I WANT 
+      To be able to perform common queries from a control panel
+    SO THAT
+      I can save time when responding to management requests
+
+    AS A 
+      System Admin
+    I WANT 
+      To have powerful report exporting tools built in the system
+    SO THAT
+      I'm not wasting time producing graphs for management
+      
+    AS A 
+      System Admin
+    I WANT 
+      To have tools to manage system data (including customers and staff) in bulk
+    SO THAT
+      I can effectively and efficiently maintain the system
       
   Airline Company
   
-  AS AN 
-	  Airline company
-  I WANT 
-    More customers coming from the travel company  
-  SO THAT
-    We can increase our total profit
+    AS AN 
+      Airline company
+    I WANT 
+      More customers coming from the travel company  
+    SO THAT
+      We can increase our total profit
 
-  AS AN 
-	  Airline company
-  I WANT 
-    Customers to have a good experience with the CMC  
-  SO THAT
-    They have an overall better experience travelling with us increasing company reputation
+    AS AN 
+      Airline company
+    I WANT 
+      Customers to have a good experience with the CMC  
+    SO THAT
+      They have an overall better experience travelling with us increasing company reputation
 
-  AS AN 
-    Airline company
-  I WANT 
-    The holiday package lines to be full
-  SO THAT
-    Space is not wasted in the airport
+    AS AN 
+      Airline company
+    I WANT 
+      The holiday package lines to be full
+    SO THAT
+      Space is not wasted in the airport
 
-  AS AN 
-    Airline company
-  I WANT 
-    The holiday packages to be regularly used  
-  SO THAT
-    Staff is not wasted waiting on non-existent customers
+    AS AN 
+      Airline company
+    I WANT 
+      The holiday packages to be regularly used  
+    SO THAT
+      Staff is not wasted waiting on non-existent customers
 
   3.2 Use Case Diagrams
 	
