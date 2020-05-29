@@ -2,6 +2,24 @@ We have chosen to use LucidChart to develop our Empathy Charts. The link for acc
 
 https://app.lucidchart.com/invitations/accept/d309c7d5-25e5-4e81-8067-b4c6a52c4211
 
+Travel Company:
+https://app.lucidchart.com/documents/edit/430ba440-8e7b-4288-8e01-f6bb00168639/R4f07SwnQXul?shared=true
+
+Developers:
+https://app.lucidchart.com/documents/edit/430ba440-8e7b-4288-8e01-f6bb00168639/X4f0siv.uJFF?shared=true
+
+Regional Managers:
+https://app.lucidchart.com/documents/edit/430ba440-8e7b-4288-8e01-f6bb00168639/T4f0nLMblBxQ?shared=true
+
+Customers:
+https://app.lucidchart.com/documents/edit/430ba440-8e7b-4288-8e01-f6bb00168639/V4f02_SlfxnO?shared=true
+
+System Admin:
+https://app.lucidchart.com/documents/edit/430ba440-8e7b-4288-8e01-f6bb00168639/Z4f0-LZLbdEn?shared=true
+
+Airline Companies:
+https://app.lucidchart.com/documents/edit/430ba440-8e7b-4288-8e01-f6bb00168639/14f0cA~2aqRk?shared=true
+
 History of changes:
 
   Date: 19/05/2020
