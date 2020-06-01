@@ -30,7 +30,7 @@ Section 1: Problem Definition
 
   1.1 Objectives 
     
-    This report seeks to develop a Call Management Centre (CMC) through the Design Thinking process in response to the issues brought up 
+This report seeks to develop a Call Management Centre (CMC) through the Design Thinking process in response to the issues brought up 
 by the major Travel Company.  This process utilises the designer’s sensibility to help develop a  creative and groundbreaking yet 
 technologically feasible product that the client can use to take business strategy and convert it into customer value and 
 competitive advantage within the market. This report will go through the steps of the design thinking process to ensure the brief is 
@@ -89,8 +89,9 @@ to:
     - Airline companies 
  
 
-  1.4 Empathy Maps 
+  1.4 Empathy Charta 
     
+    [Empathy Chart - Travel Company](diagrams/Section1 - EC - Travel Company.png)
     See "EmpathyCharts.md"
 
   1.5 POV Statements
