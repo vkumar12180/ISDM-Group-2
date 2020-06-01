@@ -82,22 +82,89 @@ to:
   1.3 List of Stakeholders 
   
     - Travel Company 
-    - RMs
     - Customers
+    - Relationship Managers (RMs)
     - Developers and managers (us) 
+    - Airline company
     - System Admin
-    - Airline companies 
- 
 
   1.4 Empathy Charts
-    
-  ![Empathy Chart - Travel Company](diagrams/Section1 - EC - Travel Company.png)
   
-
+  Travel Company
+  ![Empathy Chart - Travel Company](diagrams/Section1ECTravelCompany.png)
+  
+  Customer
+  ![Empathy Chart - Customers](diagrams/Section1ECCustomers.png)
+  
+  Relationship Managers (RMs)
+  ![Empathy Chart - Relationship Managers](diagrams/Section1ECRMs.png)
+  
+  Developers
+  ![Empathy Chart - Developers](diagrams/Section1ECDevelopers.png)
+  
+  Airline Company
+  ![Empathy Chart - Airline Company](diagrams/Section1ECAirlineCompany.png)
+  
+  System Admin
+  ![Empathy Chart - System Admin](diagrams/Section1ECSystemAdmin.png)
+  
   1.5 POV Statements
   
-    See "POVStatements.md"
-    
+  TRAVEL COMPANY
+
+	  USER 
+	    Travel Company that is providing travel packages to consumers
+	  NEED 
+	    Call management centre to be improved to help improve their business
+	  INSIGHT 
+	    Current system is outdated and is losing both customers and employees for the company 
+   
+   Customers
+   
+	USER
+	   Customers (existing and potential) for the Travel Company that is providing travel packages and telemarketing
+	NEED
+	   Travel Company’s to understand their needs and be a convenient option
+	INSIGHT
+	   The Travel Company seems disorganised and it doesn’t feel like they understand me
+
+   RMs
+   
+	  USER 
+	     Relationship Managers of the travel company
+	  NEED 
+	     To be able to respond to customer requests at all times and make a high level of holiday package sales 
+	  INSIGHT 
+	     The current CMC system directs customers to Relationship Managers who are unable to respond to their request which creates unhappy customers and a loss of sales. 
+   
+   DEVELOPERS
+  
+	  USER 
+	    Developers that are working on the CMC system for the Travel Company
+	  NEED 
+	    Time and resources to develop the CMC for the Travel Company
+	  INSIGHT 
+	    Developers need a relaxing, low-stress environment with ample time for them to think clearly so that they are able to
+	    develop a system to the best of their abilities.
+   
+   
+   Airline Company
+   
+	USER 
+	   Airline Company that is providing modes of transportation to customers
+	NEED 
+	   To get customers to their desired location in a quick and comfortable manor 
+	INSIGHT 
+	   Current operation isn’t profitable enough 
+   
+   System Admin
+   
+	USER
+	   System Administrators working for the Travel Company, managing it’s systems and responding to management enquiries about their digital workflow
+	NEED
+	   For the internal system to provide an extensive set of tools to enable them to do their jobs.
+	INSIGHT
+	   The current internal system is dated, doesn’t provide any metric tracking features needed, and required constant maintenance
 ------------------------------------------------------------------------------    
 
 Section 2: Ideation
@@ -119,12 +186,83 @@ Section 2: Ideation
     holiday packages and holiday deals. 
 
   2.2 How Might We Statements
+  
+  ## TRAVEL COMPANY - Sarah 
+
+  We met...the management of the Travel Company that has asked us to develop and manage the new CMC.
+
+  We were surprised to notice...that the company was beginning to decline since there weren’t enough customers doing business with them, meaning the employees had no work and were leaving. 
+
+  We wonder if this means…if the Travel Company will go bankrupt if the CMC system is not fixed
+
+  It would be game changing to...drastically improve the CMC so that the company can lift itself off the ground again.
+
+    How might we develop a high quality, technologically advanced CMC in a short timeline to ensure that more customers and employees do not leave the company, thus revitalising the business? 
+  
+  ## CUSTOMERS - Christopher
+
+**We met** with some of the potential and existing customers of the Travel Company that were contacted by phone.
    
-    See "HMWStatements.md"
+**We were surprised to notice** that many felt that their personal needs were not being understood.
+   
+**We wonder if this means** our current process of personalising our recommendations is falling short of expectations.
+
+**It would be gamechanging to** develop an automated system where the existing data we collect can be used to generate better matched recommendations for travel and accommodation.
+
+    How might we might data with a new and imporved CMC to deliver fast, accurate and personalised recommendations for our customers.
+  
+  ## RMs - Vishaal
+
+   We met .. the Relationship Managers employed at the Travel Company
+    
+   We were surprised to notice .. the dissatisfaction felt from the Relationship Managers due to angry customers, low sales, low commission and high expectations from management.
+ 
+   We wonder if this means…the current CMC system is causing this dissatisfaction. 
+
+   It would be gamechanging to..improve the CMC system of the Travel Company to ensure that RMs are able to make sales to happy customers and feel satisfied. 
+
+    How might we be able improve the CMC so that RMs are able to fully utilise their expertise to create sales.
+  
+  ## DEVELOPERS - Sarah
+
+  We met...the developers put in charge of creating and updating the current CMC.
+
+  We were surprised to notice...that they were feeling nervous and pressured since a lot of the company’s success is being put onto the CMC and the success of its development. 
+
+  We wonder if this means…if the developers may feel too anxious to perform to the best of their ability.
+
+  It would be game changing to..encourage the developers to feel relaxed by giving them a fair timeline as well as a many meetings to ensure they are able to talk about issues they are experiencing and progress that have had.
+
+    How might we ensure the developers are performing to the best of their ability whilst embodying all the desired features of the travel company? 
+  
+  ## AIRLINE COMPANIES - Daniel
+
+  We met .. the representatives from airline companies that have a partnership with the Travel Company. 
+
+  We were surprised to notice .. the low sales from the Travel Company meant that that Airline Companies were not maximising their profits.
+ 
+  We wonder if this means…that the airline companies will reconsider their alliances with the Travel Companies if the travel company’s sales are consistently low. 
+
+  It would be game changing to..improve the CMC system of the Travel Company to ensure that sales are high. 
+
+    How might we be able to improve the reputation and increase the sales for the travel company in order to ensure high profits for Airline Companies. 
+  
+  ## SYSTEM ADMIN - Christopher
+  
+**We met** with the system administrators of the Travel Company.
+   
+**We were surprised to notice** that many saw the current system and its toolset to be lacking in sophistication to respond to management enquiries.
+   
+**We wonder if this means** significant valuable time is wasted by system administrators that could be better spent maintaining the system.
+
+**It would be gamechanging to** develop a new toolset alongside an improved system where these complex queries can be performed with ease.
+
+    How might we utilise database queries and a new intuitive UI within the CMC to build a powerful toolkit for system administrations.
    
   2.3 Brainstorm
   
-    See "Brainstorm.md"
+  Brainstorm
+  ![Brainstorm](diagrams/Section2Brainstorm.png)
  
   2.4 Vote
   
@@ -155,35 +293,13 @@ Section 2: Ideation
 
   2.5 Backlog
   
-    See "issues"
+    See "issues".
 
 Section 3: Modelling 
 
   3.1 User Stories
-  RMs
   
-    AS A 
-      Relationship Manager 
-    I WANT 
-      Customers who are interested in holiday packages that I have knowledge and expertise on 
-    SO THAT
-      I am able to cater to their request and generate a holiday package sale
-
-    AS A 
-      Relationship Manager 
-    I WANT 
-      To be able to cold call prospects interested in holiday packages that I have knowledge and expertise on
-    SO THAT
-      My time is not wasted cold calling uninterested prospects and maximising my chances of making a sale.
-
-    AS A 
-      Relationship Manager 
-     I WANT 
-      Access to a customer’s age, gender, ethnicity and travel related interests
-     SO THAT
-      I have information of a customer to ensure I am able to provide high levels of customer service. 
-    
-   Travel Company
+  Travel Company
    
     AS A 
       Travel Company
@@ -240,7 +356,30 @@ Section 3: Modelling
     I WANT 
       To be able to organise a call back time
     SO THAT
-      I can fit this recommendation and booking process to my schedule  
+      I can fit this recommendation and booking process to my schedule 
+  
+  RMs
+  
+    AS A 
+      Relationship Manager 
+    I WANT 
+      Customers who are interested in holiday packages that I have knowledge and expertise on 
+    SO THAT
+      I am able to cater to their request and generate a holiday package sale
+
+    AS A 
+      Relationship Manager 
+    I WANT 
+      To be able to cold call prospects interested in holiday packages that I have knowledge and expertise on
+    SO THAT
+      My time is not wasted cold calling uninterested prospects and maximising my chances of making a sale.
+
+    AS A 
+      Relationship Manager 
+     I WANT 
+      Access to a customer’s age, gender, ethnicity and travel related interests
+     SO THAT
+      I have information of a customer to ensure I am able to provide high levels of customer service. 
     
   Developers
   
@@ -264,36 +403,6 @@ Section 3: Modelling
       Early notification of any changes to the specifications such as new features or changes to original features
     SO THAT
       We are able to change the product as early as possible without interfering with future code. 
-  
-  System Admin
-  
-    AS A 
-      System Admin
-    I WANT 
-      To have a visual dashboard with the current state of the system
-    SO THAT
-      I can easily monitor the system for active issues or outages
-      
-    AS A 
-      System Admin
-    I WANT 
-      To be able to perform common queries from a control panel
-    SO THAT
-      I can save time when responding to management requests
-
-    AS A 
-      System Admin
-    I WANT 
-      To have powerful report exporting tools built in the system
-    SO THAT
-      I'm not wasting time producing graphs for management
-      
-    AS A 
-      System Admin
-    I WANT 
-      To have tools to manage system data (including customers and staff) in bulk
-    SO THAT
-      I can effectively and efficiently maintain the system
       
   Airline Company
   
@@ -324,23 +433,60 @@ Section 3: Modelling
       The holiday packages to be regularly used  
     SO THAT
       Staff is not wasted waiting on non-existent customers
+      
+  System Admin
+  
+    AS A 
+      System Admin
+    I WANT 
+      To have a visual dashboard with the current state of the system
+    SO THAT
+      I can easily monitor the system for active issues or outages
+      
+    AS A 
+      System Admin
+    I WANT 
+      To be able to perform common queries from a control panel
+    SO THAT
+      I can save time when responding to management requests
 
-  3.2 Use Case Diagrams
-	
-	See "UCDiagram.md"  
+    AS A 
+      System Admin
+    I WANT 
+      To have powerful report exporting tools built in the system
+    SO THAT
+      I'm not wasting time producing graphs for management
+      
+    AS A 
+      System Admin
+    I WANT 
+      To have tools to manage system data (including customers and staff) in bulk
+    SO THAT
+      I can effectively and efficiently maintain the system
+
+  3.2 Use Case Diagram
+  
+  Use Case Diagram
+  ![Use Case Diagram](diagrams/Section3UseCaseDiagram.png)
 
   3.3 Activity Diagrams
   
-  	See "ADiagram.md"
-
+  Inbound Calls
+  ![Activity Diagram - Inbound Calls](diagrams/Section3ADInboundCalls.png)
+  
+  Outbound Calls
+  ![Activity Diagram - Inbound Calls](diagrams/Section3ADOutboundCalls.png)
+  
   3.4 Class Diagrams
   
-  	See "ClassDiagram.md"
+  Class Diagram
+  ![Class Diagram](diagrams/Section3ClassDiagram.png)
 
   3.5 Collaborative Diagrams
   
-  	See "CollabDiagrams.md"
-
+  Collaboration Diagram
+  ![Collaboration Diagram](diagrams/Section3CollaborationDiagram.png)
+  
 Section 4: Competitive Advantage
 
   4.1 Competitive Advantage
@@ -353,14 +499,21 @@ Section 4: Competitive Advantage
 
 Section 5: Agile Methodology
 
-  5.1 Scrum Activities Used
+  5.1 Scrum Activities Used and Evidence
   
   Agile refers to a software development methodology in which the requirements elicitation and the development of those requirements progress in iterations and in smaller cross functional teams. Scrum is a form of agile methodology which introduces certain roles, artefacts and events. The most important part of scrum is the idea of sprints which is a fixed period (usually 14-30 days) to develop an iteration of the development. Each scrum team involves a product owner who is an individual that represents the end user and prioritises features, a scrum master that facilitates and manages the development and relationship between the product owner and development team and the development team which builds an increment of the product. Each scrum team involves events such as sprint planning which involves planning the amount of the backlog which will be developed for each iteration, the sprint review session which involves the product owner and development team reviewing the build that was conducted in that sprint, the daily scrum which involves status updates from the development team daily and the sprint retrospective which involves reviewing the sprint and identifying what was done right and what was done wrong. The scrum artefacts involve the product backlog which is a list of user stories that will be needed to develop the product and the sprint backlog specifies the list of user stories which will be developed in the sprint.
-The group utilised the roles of product owner and scrum master. Firstly, the group members acted as product owners through the design thinking stage of the assignment. Each of us identified our stakeholders, created empathy maps and point of view statements for our stakeholder. Through creating empathy maps, we were able to understand our stakeholders and prioritise the features that should be part of the product which would maximise the value for the end user. From the point of view statements, we were able to understand the limitations of the current product which were not providing value and created a negative outlook to the stakeholder’s perception of the product and hence gave us a clearer view on what should be developed, giving us an indication on the skills of stakeholder management and prioritisation roles that a product owner would undertake. The role of scrum master was also carried out through the use of the tools on GitHub. A typical role of a scrum master would be to manage the backlog, plan and break down the work to maximise efficiency. The group undertook this role through the use of creating Issues on Github as shown in Figure 1. Each issue created was labelled with the corresponding section of the assignment that the issue was related to and assigned to each person. Each issue in the issue backlog was assigned to each team member fairly and each group member would also comment on other issues that were not assigned to them to check for a status update as shown in Figure 2. 
+
+The group utilised the roles of product owner and scrum master. Firstly, the group members acted as product owners through the design thinking stage of the assignment. Each of us identified our stakeholders, created empathy maps and point of view statements for our stakeholder. Through creating empathy maps, we were able to understand our stakeholders and prioritise the features that should be part of the product which would maximise the value for the end user. From the point of view statements, we were able to understand the limitations of the current product which were not providing value and created a negative outlook to the stakeholder’s perception of the product and hence gave us a clearer view on what should be developed, giving us an indication on the skills of stakeholder management and prioritisation roles that a product owner would undertake. The role of scrum master was also carried out through the use of the tools on GitHub. A typical role of a scrum master would be to manage the backlog, plan and break down the work to maximise efficiency. The group undertook this role through the use of creating Issues on Github as shown in Figure 1. 
+
+Figure 1:
+![Evidence of Issues](diagrams/Section5Figure1.png)
+
+Each issue created was labelled with the corresponding section of the assignment that the issue was related to and assigned to each person. Each issue in the issue backlog was assigned to each team member fairly and each group member would also comment on other issues that were not assigned to them to check for a status update as shown in Figure 2. 
+
+Figure 2:
+![Evidence of Comments](diagrams/Section5Figure2.png)
 
 Furthermore, through this issue backlog, we were able to conduct sprint planning. The group did utilise this event through coming up with issues in the issue backlog as shown in Figure 1 which identified what should be worked on for the project. Whilst the group did not meet daily due to COVID-19 restrictions, a scrum stand up was undertook each week in the tutorial sessions in where we talked about what we achieved in the issue backlog and which issues can be closed using Discord, what we will be working on next and whether there were any call-outs or problems on the work assigned. Our Discord call evidence is highlighted in Figure 3.
 
-  5.2 Explanation and Evidence of Activities Used
-  
-  Notes: Recording the intention, rationale, and focus of each system’s development iteration using commit messages, project boards, and issue tracking (opening/closing) capabilities (from assignment outline)
-
+Figure 3:
+![Evidence of Discussion](diagrams/Section5Figure3.png)
