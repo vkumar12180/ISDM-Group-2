@@ -91,7 +91,7 @@ to:
 
   1.4 Empathy Charts
     
-  [Empathy Chart - Travel Company](diagrams/Section1 - EC - Travel Company.png)
+  ![Empathy Chart - Travel Company](diagrams/Section1 - EC - Travel Company.png)
   
 
   1.5 POV Statements
