@@ -89,10 +89,10 @@ to:
     - Airline companies 
  
 
-  1.4 Empathy Charta 
+  1.4 Empathy Charts
     
-    [Empathy Chart - Travel Company](diagrams/Section1 - EC - Travel Company.png)
-    See "EmpathyCharts.md"
+  [Empathy Chart - Travel Company](diagrams/Section1 - EC - Travel Company.png)
+  
 
   1.5 POV Statements
   
