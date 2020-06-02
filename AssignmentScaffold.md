@@ -413,10 +413,9 @@ _AS A..._ System Administrator
 _I WANT..._ To have tools to manage system data (including customers and staff) in bulk  
 _SO THAT..._ I can effectively and efficiently maintain the system
 
-  3.2 Use Case Diagram
-  
-  Use Case Diagram
-  ![Use Case Diagram](diagrams/Section3UseCaseDiagram.png)
+### 3.2 Use Case Diagram
+
+![Use Case Diagram](diagrams/Section3UseCaseDiagram.png)
 
   3.3 Activity Diagrams
   
