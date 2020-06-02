@@ -302,9 +302,9 @@ Relationship Managers could be specialised in certain countries and continents s
 
 This idea is the most breakthrough because it would stop RMs having to learn every single package and deal within the company. This would save a lot of money on training and it would give RMs the opportunity to truly understand the area of expertise which will help them provide excellent customer service.
 
-  2.5 Backlog
+### 2.5 Backlog
   
-    See "issues".
+See the [Github Issues](https://github.com/vkumar12180/ISDM-Group-2/issues?q=is%3Aissue) from this repository.
 
 Section 3: Modelling 
 
