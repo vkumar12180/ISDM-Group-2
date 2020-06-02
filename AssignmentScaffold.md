@@ -309,174 +309,109 @@ See the [Github Issues](https://github.com/vkumar12180/ISDM-Group-2/issues?q=is%
 
 ---
 
-Section 3: Modelling 
+## Section 3: Modelling 
 
-  3.1 User Stories
+### 3.1 User Stories
   
-  Travel Company
-   
-    AS A 
-      Travel Company
-    I WANT 
-      My employees to be thoroughly trained
-    SO THAT
-      They are able to provide the best service to the business’ customers
+**Travel Company**
 
-    AS A 
-      Travel Company
-    I WANT 
-      A new Call Management Centre system
-    SO THAT
-      We are able to revitalise our business by impressing customers and aiding employees
+_AS A..._ Travel Company  
+_I WANT..._ My employees to be thoroughly trained  
+_SO THAT..._ They are able to provide the best service to the business’ customers
 
-    AS A 
-      Travel Company
-    I WANT 
-      To have competitive prices on holiday packages within the market
-    SO THAT
-      We are able to draw in customers to purchase packages from us 
-    AS A 
-      Travel Company
-    I WANT 
-      To bring in new customers and more business
-    SO THAT
-      We are able to benefit our company as well as the airlines and cruise companies who work with us
-    
-  Customer
-   
-    AS A 
-      Customer
-    I WANT 
-      To have my details and situation saved
-    SO THAT
-      I only need to explain it once and don't have to go through it again with every call
+_AS A..._ Travel Company  
+_I WANT..._ A new Call Management Centre system  
+_SO THAT..._ We are able to revitalise our business by impressing customers and aiding employees
 
-    AS A 
-      Customer
-    I WANT 
-      To have travel and accomodation recommendations matched to my needs
-    SO THAT
-      I receive only relevant suggestions and can organise my holiday efficiently
+_AS A..._ Travel Company  
+_I WANT..._ To have competitive prices on holiday packages within the market  
+_SO THAT..._ We are able to draw in customers to purchase packages from us  
 
-    AS A 
-      Customer
-    I WANT 
-      My call to be routed and answered quickly
-    SO THAT
-      I'm not wasting a lot of time waiting on hold
-      
-    AS A 
-      Customer
-    I WANT 
-      To be able to organise a call back time
-    SO THAT
-      I can fit this recommendation and booking process to my schedule 
+_AS A..._ Travel Company  
+_I WANT..._ To bring in new customers and more business  
+_SO THAT..._ We are able to benefit our company as well as the airlines and cruise companies who work with us
+
+**Customer**
+
+_AS A..._ Customer  
+_I WANT..._ To have my details and situation saved  
+_SO THAT..._ I only need to explain it once and don't have to go through it again with every call
+
+_AS A..._ Customer  
+_I WANT..._ To have travel and accomodation recommendations matched to my needs  
+_SO THAT..._ I receive only relevant suggestions and can organise my holiday efficiently
+
+_AS A..._ Customer  
+_I WANT..._ My call to be routed and answered quickly  
+_SO THAT..._ I'm not wasting a lot of time waiting on hold
   
-  RMs
+_AS A..._ Customer  
+_I WANT..._ To be able to organise a call back time  
+_SO THAT..._ I can fit this recommendation and booking process to my schedule 
+
+**Relationship Manager**
+
+_AS A..._ Relationship Manager   
+_I WANT..._ Customers who are interested in holiday packages that I have knowledge and expertise on  
+_SO THAT..._ I am able to cater to their request and generate a holiday package sale
+
+_AS A..._ Relationship Manager   
+_I WANT..._ To be able to cold call prospects interested in holiday packages that I have knowledge and expertise on  
+_SO THAT..._ My time is not wasted cold calling uninterested prospects and maximising my chances of making a sale.
+
+_AS A..._ Relationship Manager  
+_I WANT..._ Access to a customer’s age, gender, ethnicity and travel related interests  
+_SO THAT..._ I have information of a customer to ensure I am able to provide high levels of customer service. 
+
+**Developer**
+
+_AS A..._ Developer  
+_I WANT..._ To develop a Call Management Centre for the Travel Company since this is the task we’d be hired for  
+_SO THAT..._ We are able to get paid and move onto new jobs. 
+
+_AS A..._ Developer  
+_I WANT..._ A comfortable environment to work without the pressures of a strict timeline or unreasonable managers  
+_SO THAT..._ We are not too stressed and are able to do the best work we can given the project brief and specifications. 
+
+_AS A..._ Developer  
+_I WANT..._ Early notification of any changes to the specifications such as new features or changes to original features  
+_SO THAT..._ We are able to change the product as early as possible without interfering with future code. 
   
-    AS A 
-      Relationship Manager 
-    I WANT 
-      Customers who are interested in holiday packages that I have knowledge and expertise on 
-    SO THAT
-      I am able to cater to their request and generate a holiday package sale
+**Airline Company**
 
-    AS A 
-      Relationship Manager 
-    I WANT 
-      To be able to cold call prospects interested in holiday packages that I have knowledge and expertise on
-    SO THAT
-      My time is not wasted cold calling uninterested prospects and maximising my chances of making a sale.
+_AS AN..._ Airline company  
+_I WANT..._ More customers coming from the travel company  
+_SO THAT..._ We can increase our total profit
 
-    AS A 
-      Relationship Manager 
-     I WANT 
-      Access to a customer’s age, gender, ethnicity and travel related interests
-     SO THAT
-      I have information of a customer to ensure I am able to provide high levels of customer service. 
-    
-  Developers
+_AS AN..._ Airline company  
+_I WANT..._ Customers to have a good experience with the CMC  
+_SO THAT..._ They have an overall better experience travelling with us increasing company reputation
+
+_AS AN..._ Airline company  
+_I WANT..._ The holiday package lines to be full  
+_SO THAT..._ Space is not wasted in the airport
+
+_AS AN..._ Airline company  
+_I WANT..._ The holiday packages to be regularly used  
+_SO THAT..._ Staff is not wasted waiting on non-existent customers
   
-    AS A 
-      Developer
-    I WANT 
-      To develop a Call Management Centre for the Travel Company since this is the task we’d be hired for
-    SO THAT
-      We are able to get paid and move onto new jobs. 
+**System Administrator**
 
-    AS A 
-      Developer
-    I WANT 
-      A comfortable environment to work without the pressures of a strict timeline or unreasonable managers
-    SO THAT
-      We are not too stressed and are able to do the best work we can given the project brief and specifications. 
-
-    AS A 
-      Developer
-    I WANT 
-      Early notification of any changes to the specifications such as new features or changes to original features
-    SO THAT
-      We are able to change the product as early as possible without interfering with future code. 
-      
-  Airline Company
+_AS A..._ System Administrator  
+_I WANT..._ To have a visual dashboard with the current state of the system  
+_SO THAT..._ I can easily monitor the system for active issues or outages
   
-    AS AN 
-      Airline company
-    I WANT 
-      More customers coming from the travel company  
-    SO THAT
-      We can increase our total profit
+_AS A..._ System Administrator  
+_I WANT..._ To be able to perform common queries from a control panel  
+_SO THAT..._ I can save time when responding to management requests
 
-    AS AN 
-      Airline company
-    I WANT 
-      Customers to have a good experience with the CMC  
-    SO THAT
-      They have an overall better experience travelling with us increasing company reputation
-
-    AS AN 
-      Airline company
-    I WANT 
-      The holiday package lines to be full
-    SO THAT
-      Space is not wasted in the airport
-
-    AS AN 
-      Airline company
-    I WANT 
-      The holiday packages to be regularly used  
-    SO THAT
-      Staff is not wasted waiting on non-existent customers
-      
-  System Admin
+_AS A..._ System Administrator  
+_I WANT..._ To have powerful report exporting tools built in the system  
+_SO THAT..._ I'm not wasting time producing graphs for management
   
-    AS A 
-      System Admin
-    I WANT 
-      To have a visual dashboard with the current state of the system
-    SO THAT
-      I can easily monitor the system for active issues or outages
-      
-    AS A 
-      System Admin
-    I WANT 
-      To be able to perform common queries from a control panel
-    SO THAT
-      I can save time when responding to management requests
-
-    AS A 
-      System Admin
-    I WANT 
-      To have powerful report exporting tools built in the system
-    SO THAT
-      I'm not wasting time producing graphs for management
-      
-    AS A 
-      System Admin
-    I WANT 
-      To have tools to manage system data (including customers and staff) in bulk
-    SO THAT
-      I can effectively and efficiently maintain the system
+_AS A..._ System Administrator  
+_I WANT..._ To have tools to manage system data (including customers and staff) in bulk  
+_SO THAT..._ I can effectively and efficiently maintain the system
 
   3.2 Use Case Diagram
   
