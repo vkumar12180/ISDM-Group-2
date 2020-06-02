@@ -18,6 +18,8 @@ _Links to:_
 
 ---
 
+_Please note, the majority of the following internal hyperlinks will only work when viewing this file with Markdown. If you are viewing it in a pdf or other format, they will not work. Apologies for this limitation._
+
 ## Table of Contents
 
 1. Problem Definition  
