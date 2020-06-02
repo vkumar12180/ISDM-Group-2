@@ -31,8 +31,8 @@
    3.1 [User Stories](#3.1-User-Stories)  
    3.2 [Use Case Diagram](#3.2-Use-Case-Diagram)  
    3.3 [Activity Diagrams](#3.3-Activity-Diagrams)  
-   3.4 [Class Diagrams](#3.4-Class-Diagrams)  
-   3.5 [Collaborative Diagrams](#3.5-Collaborative-Diagrams)
+   3.4 [Class Diagram](#3.4-Class-Diagram)  
+   3.5 [Collaboration Diagrams](#3.5-Collaboration-Diagrams)
 
 4. Competitive Advantage  
    4.1 [Competitive Advantage](#4.1-Competitive-Advantage)  
