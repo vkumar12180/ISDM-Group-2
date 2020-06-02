@@ -94,15 +94,14 @@ These assumptions are as follows:
 
 10. Developers and System Admin are two different entities and are treated as such throughout the body of this report.
 
-      
-  1.3 List of Stakeholders 
-  
-    - Travel Company 
-    - Customers
-    - Relationship Managers (RMs)
-    - Developers and managers (us) 
-    - Airline company
-    - System Admin
+### 1.3 List of Stakeholders 
+
+  - Travel Company 
+  - Customers
+  - Relationship Managers (RMs)
+  - Developers and managers (us) 
+  - Airline company
+  - System Admin
 
   1.4 Empathy Charts
   
