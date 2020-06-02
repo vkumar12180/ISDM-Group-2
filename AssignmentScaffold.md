@@ -190,7 +190,8 @@ These assumptions are as follows:
 
 - INSIGHT  
   The current internal system is dated, doesn’t provide any metric tracking features needed, and required constant maintenance
- 
+
+--- 
 
 ## Section 2: Ideation
 
@@ -305,6 +306,8 @@ This idea is the most breakthrough because it would stop RMs having to learn eve
 ### 2.5 Backlog
   
 See the [Github Issues](https://github.com/vkumar12180/ISDM-Group-2/issues?q=is%3Aissue) from this repository.
+
+---
 
 Section 3: Modelling 
 
@@ -501,6 +504,8 @@ Section 3: Modelling
   
   ![Collaboration Diagram](diagrams/Section3CollaborationDiagramOutbound.png)
   
+--- 
+
 Section 4: Competitive Advantage
 
   4.1 Competitive Advantage
@@ -510,6 +515,8 @@ Section 4: Competitive Advantage
   4.2 Impact of Failure
   
   The development of this updated CMC is crucial to the success of this major Travel Company. The impact of failure within this project will have massive repercussions on the company as well as all of its employees. Should the development of the new CMC fail, the Travel Company will continue to lose customers with the confusing current system. Since it is currently difficult for customers to access RMs and as such, difficult for them to discuss holiday options, customers will turn to other companies at an increasing rate. Losing so many customers will mean that RMs interact with less companies. Since RMs work on commission, they will begin to make less money and have much less to do at work. This will result in many employees leaving the travel company to instead search for bigger and better career opportunities in other companies. By losing employees and customers, the relationships the travel company had built with the airlines will be voided as the airlines will not be receiving any customers or revenue. This would mean that the airline is forced to instead form a relationship with a company that brings them business and will end the professional relationship with the Travel Company. Should the development of the CMC fail, the Travel Company will ultimately be forced to shut down since it will lose customers, employees and important professional relationships.
+
+--- 
 
 Section 5: Agile Methodology
 
