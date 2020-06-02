@@ -1,28 +1,48 @@
-Table of Contents
-Section 1: Problem Definition	2
-  1.1 Objectives	2
-  1.2 Assumptions	2
-  1.3 List of Stakeholders	2
-  1.4 Empathy Maps	2
-  1.5 POV Statements	2
-Section 2: Ideation	3
-  2.1 Reflections	3
-  2.2 How Might We Statements	3
-  2.3 Brainstorm	3
-  2.4 Vote	3
-  2.5 Backlog	3
-Section 3: Modelling	4
-  3.1 User Stories	4
-  3.2 Use Case Diagrams	4
-  3.3 Activity Diagrams	4
-  3.4 Class Diagrams	4
-  3.5 Collaborative Diagrams	4
-Section 4: Competitive Advantage	4
-  4.1 Competitive Advantage	4
-  4.2 Impact of Failure	4
-Section 5: Agile Methodology	5
-  5.1 Scrum Activities Used	5
-  5.2 Explanation and Evidence of Activities Used	5
+# Travel Company - New CMC System Report
+
+**Report compiled by**
+
+|||
+---:|:---
+`13561232`|Sarah Assaf
+`13565647`|Daniel Heffernan
+`13532787`|Christopher Kesoglou
+`13584127`|Vishaal Kumar
+
+---
+
+## Table of Contents
+
+1. Problem Definition  
+   1.1 [Objectives](#Objectives)  
+   1.2 [Assumptions](#Assumptions)  
+   1.3 [List of Stakeholders](#List-of-Stakeholders)  
+   1.4 [Empathy Maps](#Empathy-Maps)  
+   1.5 [POV Statements](#POV-Statements)
+
+2. Ideation  
+   2.1 [Reflections](#Reflections)  
+   2.2 [How Might We Statements](#How-Might-We-Statements)  
+   2.3 [Brainstorm](#Brainstorm)  
+   2.4 [Vote](#Vote)  
+   2.5 [Backlog](#Backlog)
+
+3. Prototyping and Modelling  
+   3.1 [User Stories](#User-Stories)  
+   3.2 [Use Case Diagrams](#Use-Case-Diagrams)  
+   3.3 [Activity Diagrams](#Activity-Diagrams)  
+   3.4 [Class Diagrams](#Class-Diagrams)  
+   3.5 [Collaborative Diagrams](#Collaborative-Diagrams)
+
+4. Competitive Advantage  
+   4.1 [Competitive Advantage](#Competitive-Advantage)  
+   4.2 [Impact of Failure](#Impact-of-Failure)  
+
+5. Agile Methodology  
+   5.1 [Scrum Activities Used](#Scrum-Activities-Used)  
+   5.2 [Explanation and Evidence](#Explanation-and-Evidence)
+
+---
 
 
 
