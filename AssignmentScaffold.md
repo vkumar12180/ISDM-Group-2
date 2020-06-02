@@ -39,8 +39,7 @@
    4.2 [Impact of Failure](#4.2-Impact-of-Failure)  
 
 5. Agile Methodology  
-   5.1 [Scrum Activities Used](#5.1-Scrum-Activities-Used)  
-   5.2 [Explanation and Evidence](#5.2-Explanation-and-Evidence)
+   5.1 [Scrum Activities Used and Evidence](#5.1-Scrum-Activities-Used-and-Evidence)
 
 ---
 
