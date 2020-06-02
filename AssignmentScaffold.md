@@ -423,10 +423,9 @@ _SO THAT..._ I can effectively and efficiently maintain the system
 
 ![Activity Diagram - Outbound Calls](diagrams/Section3ADOutboundCalls.png)
   
-  3.4 Class Diagrams
-  
-  Class Diagram
-  ![Class Diagram](diagrams/Section3ClassDiagram.png)
+### 3.4 Class Diagram
+
+![Class Diagram](diagrams/Section3ClassDiagram.png)
 
   3.5 Collaborative Diagrams
   
