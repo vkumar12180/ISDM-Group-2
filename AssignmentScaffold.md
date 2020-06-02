@@ -284,7 +284,7 @@ _It would be gamechanging to..._ develop a new toolset alongside an improved sys
   
 **Most Likely To Succeed:**
 
-Inbound callers interested in the Travel Company’s holiday packages will be first met with an automated phone calling system in where they will use their phone keypad to input their travel destination and holiday type. This will be used to direct the outbound caller to the most appropriate RM. 
+Inbound callers interested in the Travel Company’s holiday packages will be first met with an automated phone calling system where they will use their phone keypad to input their travel destination and holiday type. This will be used to direct the outbound caller to the most appropriate RM. 
 
 We think this idea is the most practical and will provide the company the best opportunity to revitalise their business and 
 system.
