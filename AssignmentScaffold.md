@@ -121,7 +121,7 @@ These assumptions are as follows:
 **<center>Airline Company</center>**
 ![Empathy Chart - Airline Company](diagrams/Section1ECAirlineCompany.png)
 
-**<center>System Admin</center>**=
+**<center>System Admin</center>**
 ![Empathy Chart - System Admin](diagrams/Section1ECSystemAdmin.png)
   
   1.5 POV Statements
