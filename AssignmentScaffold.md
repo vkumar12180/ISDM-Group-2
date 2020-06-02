@@ -106,7 +106,7 @@ These assumptions are as follows:
   - Airline company
   - System Admin
 
-### 1.4 Empathy Charts
+### 1.4 Empathy Maps
 <sup>[back to top](#Table-of-Contents)</sup>
   
 **<center>Travel Company</center>**
