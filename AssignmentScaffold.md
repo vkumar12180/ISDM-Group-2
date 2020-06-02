@@ -417,13 +417,11 @@ _SO THAT..._ I can effectively and efficiently maintain the system
 
 ![Use Case Diagram](diagrams/Section3UseCaseDiagram.png)
 
-  3.3 Activity Diagrams
-  
-  Inbound Calls
-  ![Activity Diagram - Inbound Calls](diagrams/Section3ADInboundCalls.png)
-  
-  Outbound Calls
-  ![Activity Diagram - Inbound Calls](diagrams/Section3ADOutboundCalls.png)
+### 3.3 Activity Diagrams
+
+![Activity Diagram - Inbound Calls](diagrams/Section3ADInboundCalls.png)
+
+![Activity Diagram - Outbound Calls](diagrams/Section3ADOutboundCalls.png)
   
   3.4 Class Diagrams
   
