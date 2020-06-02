@@ -68,32 +68,31 @@ The main objectives of this report is to:
 
 6. To develop the product using an Agile process
 
-  1.2 Assumptions
-  
-    Several assumptions have been made about the given brief to help clarify and 
-    justify the reasoning behind our creative decisions as well as about certain 
-    diagrams. These assumptions are as follows: 
+###  1.2 Assumptions
+
+Several assumptions have been made about the given brief to help clarify and justify the reasoning behind our creative decisions as well as about certain diagrams.
+
+These assumptions are as follows: 
     
-      1. Competing travel companies have a more advanced CMC than the travel company’s 
-      
-      2. The current CMC is causing customer dissatisfaction 
-      
-      3. The current CMC is causing a loss of sales 
-      
-      4. The current CMC is difficult and inefficient to use and as such, the travel company is losing employees 
-      
-      5. The travel company management expects for RMs to learn more about the product offering which is outside their specialised   
-      knowledge
-      
-      6. The holiday packages offered by  the Travel Company are only forms of holidays that involve airlines only.
-      
-      7. Airline companies form partnerships with the Travel Company when promoting holiday packages. 
-      
-      8. Relationship Managers receive a commission based income based on the number of holiday packages they sell. 
-      
-      9. There is a higher staff turnover at the Travel Company.
-      
-      10. Developers and System Admin are two different entities and are treated as such throughout the body of this report.
+1. Competing travel companies have a more advanced CMC than the travel company’s 
+
+2. The current CMC is causing customer dissatisfaction 
+
+3. The current CMC is causing a loss of sales 
+
+4. The current CMC is difficult and inefficient to use and as such, the travel company is losing employees 
+
+5. The travel company management expects for RMs to learn more about the product offering which is outside their specialised knowledge
+
+6. The holiday packages offered by  the Travel Company are only forms of holidays that involve airlines only.
+
+7. Airline companies form partnerships with the Travel Company when promoting holiday packages. 
+
+8. Relationship Managers receive a commission based income based on the number of holiday packages they sell. 
+
+9. There is a higher staff turnover at the Travel Company.
+
+10. Developers and System Admin are two different entities and are treated as such throughout the body of this report.
 
       
   1.3 List of Stakeholders 
