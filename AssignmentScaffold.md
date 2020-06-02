@@ -11,6 +11,13 @@
 
 ---
 
+_Links to:_  
+[Presentation Video](https://youtu.be/9SNujtV8vlc)  
+[Presentation PowerPoint](./Travel%20Company%20CMC%20Presentation.pptx)  
+[Github repository](https://github.com/vkumar12180/ISDM-Group-2)
+
+---
+
 ## Table of Contents
 
 1. Problem Definition  
