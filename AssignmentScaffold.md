@@ -106,7 +106,6 @@ These assumptions are as follows:
 ### 1.4 Empathy Charts
   
 **<center>Travel Company</center>**
-
 ![Empathy Chart - Travel Company](diagrams/Section1ECTravelCompany.png)
 
 **<center>Customers</center>**
@@ -277,10 +276,9 @@ _It would be gamechanging to..._ develop a new toolset alongside an improved sys
 
 > How might we utilise database queries and a new intuitive UI within the CMC to build a powerful toolkit for system administrations.
    
-  2.3 Brainstorm
-  
-  Brainstorm
-  ![Brainstorm](diagrams/Section2Brainstorm.png)
+### 2.3 Brainstorm
+
+![Brainstorm](diagrams/Section2Brainstorm.png)
  
   2.4 Vote
   
