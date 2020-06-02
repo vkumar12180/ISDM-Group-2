@@ -14,62 +14,59 @@
 ## Table of Contents
 
 1. Problem Definition  
-   1.1 [Objectives](#Objectives)  
-   1.2 [Assumptions](#Assumptions)  
-   1.3 [List of Stakeholders](#List-of-Stakeholders)  
-   1.4 [Empathy Maps](#Empathy-Maps)  
-   1.5 [POV Statements](#POV-Statements)
+   1.1 [Objectives](#1.1-Objectives)  
+   1.2 [Assumptions](#1.2-Assumptions)  
+   1.3 [List of Stakeholders](#1.3-List-of-Stakeholders)  
+   1.4 [Empathy Maps](#1.4-Empathy-Maps)  
+   1.5 [POV Statements](#1.5-POV-Statements)
 
 2. Ideation  
-   2.1 [Reflections](#Reflections)  
-   2.2 [How Might We Statements](#How-Might-We-Statements)  
-   2.3 [Brainstorm](#Brainstorm)  
-   2.4 [Vote](#Vote)  
-   2.5 [Backlog](#Backlog)
+   2.1 [Reflections](#2.1-Reflections)  
+   2.2 [How Might We Statements](#2.2-How-Might-We-Statements)  
+   2.3 [Brainstorm](#2.3-Brainstorm)  
+   2.4 [Vote](#2.4-Vote)  
+   2.5 [Backlog](#2.5-Backlog)
 
 3. Prototyping and Modelling  
-   3.1 [User Stories](#User-Stories)  
-   3.2 [Use Case Diagrams](#Use-Case-Diagrams)  
-   3.3 [Activity Diagrams](#Activity-Diagrams)  
-   3.4 [Class Diagrams](#Class-Diagrams)  
-   3.5 [Collaborative Diagrams](#Collaborative-Diagrams)
+   3.1 [User Stories](#3.1-User-Stories)  
+   3.2 [Use Case Diagrams](#3.2-Use-Case-Diagrams)  
+   3.3 [Activity Diagrams](#3.3-Activity-Diagrams)  
+   3.4 [Class Diagrams](#3.4-Class-Diagrams)  
+   3.5 [Collaborative Diagrams](#3.5-Collaborative-Diagrams)
 
 4. Competitive Advantage  
-   4.1 [Competitive Advantage](#Competitive-Advantage)  
-   4.2 [Impact of Failure](#Impact-of-Failure)  
+   4.1 [Competitive Advantage](#4.1-Competitive-Advantage)  
+   4.2 [Impact of Failure](#4.2-Impact-of-Failure)  
 
 5. Agile Methodology  
-   5.1 [Scrum Activities Used](#Scrum-Activities-Used)  
-   5.2 [Explanation and Evidence](#Explanation-and-Evidence)
+   5.1 [Scrum Activities Used](#5.1-Scrum-Activities-Used)  
+   5.2 [Explanation and Evidence](#5.2-Explanation-and-Evidence)
 
 ---
 
+## Section 1: Problem Definition
 
+###  1.1 Objectives
 
-Section 1: Problem Definition
-
-  1.1 Objectives 
-    
 This report seeks to develop a Call Management Centre (CMC) through the Design Thinking process in response to the issues brought up 
-by the major Travel Company.  This process utilises the designer’s sensibility to help develop a  creative and groundbreaking yet 
+by the major Travel Company. This process utilises the designer’s sensibility to help develop a creative and groundbreaking yet 
 technologically feasible product that the client can use to take business strategy and convert it into customer value and 
 competitive advantage within the market. This report will go through the steps of the design thinking process to ensure the brief is 
-approached systematically but without the rigidity of common software development processes. The main objectives of this report is 
-to: 
+approached systematically but without the rigidity of common software development processes.
 
-	  1. To create an innovative yet technologically feasible Call 
-	  Management Centre product 
+The main objectives of this report is to: 
 
-	  2. To create a product that will embody the desires of all stakeholders involved 
-	  within the upgrade of the Call Management Centre
+1. To create an innovative yet technologically feasible Call Management Centre product 
 
-	  3. Develop many features that are desired by the client so they are able to have many options to choose from
+2. To create a product that will embody the desires of all stakeholders involved within the upgrade of the Call Management Centre
 
-	  4. To develop comprehensive diagrams for the client so they are able to understand the flow of data and methods
+3. Develop many features that are desired by the client so they are able to have many options to choose from
 
-	  5. To show the client the competitive advantage they may achieve as a result of the developed product and to warn them of potential impacts of failure
+4. To develop comprehensive diagrams for the client so they are able to understand the flow of data and methods
 
-	  6. To develop the product using an Agile process
+5. To show the client the competitive advantage they may achieve as a result of the developed product and to warn them of potential impacts of failure
+
+6. To develop the product using an Agile process
 
   1.2 Assumptions
   
