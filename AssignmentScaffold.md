@@ -103,25 +103,26 @@ These assumptions are as follows:
   - Airline company
   - System Admin
 
-  1.4 Empathy Charts
+### 1.4 Empathy Charts
   
-  Travel Company
-  ![Empathy Chart - Travel Company](diagrams/Section1ECTravelCompany.png)
-  
-  Customer
-  ![Empathy Chart - Customers](diagrams/Section1ECCustomers.png)
-  
-  Relationship Managers (RMs)
-  ![Empathy Chart - Relationship Managers](diagrams/Section1ECRMs.png)
-  
-  Developers
-  ![Empathy Chart - Developers](diagrams/Section1ECDevelopers.png)
-  
-  Airline Company
-  ![Empathy Chart - Airline Company](diagrams/Section1ECAirlineCompany.png)
-  
-  System Admin
-  ![Empathy Chart - System Admin](diagrams/Section1ECSystemAdmin.png)
+**<center>Travel Company</center>**
+
+![Empathy Chart - Travel Company](diagrams/Section1ECTravelCompany.png)
+
+**<center>Customers</center>**
+![Empathy Chart - Customers](diagrams/Section1ECCustomers.png)
+
+**<center>Relationship Managers (RMs)</center>**
+![Empathy Chart - Relationship Managers](diagrams/Section1ECRMs.png)
+
+**<center>Developers</center>**
+![Empathy Chart - Developers](diagrams/Section1ECDevelopers.png)
+
+**<center>Airline Company</center>**
+![Empathy Chart - Airline Company](diagrams/Section1ECAirlineCompany.png)
+
+**<center>System Admin</center>**=
+![Empathy Chart - System Admin](diagrams/Section1ECSystemAdmin.png)
   
   1.5 POV Statements
   
