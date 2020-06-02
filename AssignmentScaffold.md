@@ -47,6 +47,7 @@
 ## Section 1: Problem Definition
 
 ###  1.1 Objectives
+<sup>[back to top](#Table-of-Contents)</sup>
 
 This report seeks to develop a Call Management Centre (CMC) through the Design Thinking process in response to the issues brought up 
 by the major Travel Company. This process utilises the designer’s sensibility to help develop a creative and groundbreaking yet 
@@ -69,6 +70,7 @@ The main objectives of this report is to:
 6. To develop the product using an Agile process
 
 ###  1.2 Assumptions
+<sup>[back to top](#Table-of-Contents)</sup>
 
 Several assumptions have been made about the given brief to help clarify and justify the reasoning behind our creative decisions as well as about certain diagrams.
 
@@ -95,6 +97,7 @@ These assumptions are as follows:
 10. Developers and System Admin are two different entities and are treated as such throughout the body of this report.
 
 ### 1.3 List of Stakeholders 
+<sup>[back to top](#Table-of-Contents)</sup>
 
   - Travel Company 
   - Customers
@@ -104,6 +107,7 @@ These assumptions are as follows:
   - System Admin
 
 ### 1.4 Empathy Charts
+<sup>[back to top](#Table-of-Contents)</sup>
   
 **<center>Travel Company</center>**
 ![Empathy Chart - Travel Company](diagrams/Section1ECTravelCompany.png)
@@ -124,6 +128,7 @@ These assumptions are as follows:
 ![Empathy Chart - System Admin](diagrams/Section1ECSystemAdmin.png)
   
 ### 1.5 POV Statements
+<sup>[back to top](#Table-of-Contents)</sup>
   
 **TRAVEL COMPANY**
 
@@ -196,6 +201,7 @@ These assumptions are as follows:
 ## Section 2: Ideation
 
 ### 2.1 Reflections
+<sup>[back to top](#Table-of-Contents)</sup>
   
 Several assumptions were made about the given brief and will be fleshed out through the body of this reflection. The broadest assumption that was made was that the Travel Company’s current Call Management Centre (CMC) was a detriment to all aspects of the business. The current CMC does not compare to other travel company CMC’s and this technological hindrance means that other companies have the competitive advantage. Further, it is assumed that the current CMC is causing dissatisfaction with customers as it is too hard to reach an appropriate RM and the packages are hard to understand. This dissatisfaction means that customers turn to other travel companies for a better customer service experience resulting in loss of business and revenue.
 
@@ -204,6 +210,7 @@ This goes further to assume that the travel company expects that RMs thoroughly 
 holiday packages and holiday deals. 
 
 ### 2.2 How Might We Statements
+<sup>[back to top](#Table-of-Contents)</sup>
   
 **Travel Company**
 
@@ -278,10 +285,12 @@ _It would be gamechanging to..._ develop a new toolset alongside an improved sys
 > How might we utilise database queries and a new intuitive UI within the CMC to build a powerful toolkit for system administrations.
    
 ### 2.3 Brainstorm
+<sup>[back to top](#Table-of-Contents)</sup>
 
 ![Brainstorm](diagrams/Section2Brainstorm.png)
  
 ### 2.4 Vote
+<sup>[back to top](#Table-of-Contents)</sup>
   
 **Most Likely To Succeed:**
 
@@ -304,6 +313,7 @@ Relationship Managers could be specialised in certain countries and continents s
 This idea is the most breakthrough because it would stop RMs having to learn every single package and deal within the company. This would save a lot of money on training and it would give RMs the opportunity to truly understand the area of expertise which will help them provide excellent customer service.
 
 ### 2.5 Backlog
+<sup>[back to top](#Table-of-Contents)</sup>
   
 See the [Github Issues](https://github.com/vkumar12180/ISDM-Group-2/issues?q=is%3Aissue) from this repository.
 
@@ -312,6 +322,7 @@ See the [Github Issues](https://github.com/vkumar12180/ISDM-Group-2/issues?q=is%
 ## Section 3: Modelling 
 
 ### 3.1 User Stories
+<sup>[back to top](#Table-of-Contents)</sup>
   
 **Travel Company**
 
@@ -414,20 +425,24 @@ _I WANT..._ To have tools to manage system data (including customers and staff) 
 _SO THAT..._ I can effectively and efficiently maintain the system
 
 ### 3.2 Use Case Diagram
+<sup>[back to top](#Table-of-Contents)</sup>
 
 ![Use Case Diagram](diagrams/Section3UseCaseDiagram.png)
 
 ### 3.3 Activity Diagrams
+<sup>[back to top](#Table-of-Contents)</sup>
 
 ![Activity Diagram - Inbound Calls](diagrams/Section3ADInboundCalls.png)
 
 ![Activity Diagram - Outbound Calls](diagrams/Section3ADOutboundCalls.png)
   
 ### 3.4 Class Diagram
+<sup>[back to top](#Table-of-Contents)</sup>
 
 ![Class Diagram](diagrams/Section3ClassDiagram.png)
 
 ### 3.5 Collaboration Diagrams
+<sup>[back to top](#Table-of-Contents)</sup>
 
 ![Collaboration Diagram](diagrams/Section3CollaborationDiagramInbound.png)
 
@@ -438,12 +453,14 @@ _SO THAT..._ I can effectively and efficiently maintain the system
 ## Section 4: Competitive Advantage
 
 ### 4.1 Competitive Advantage
+<sup>[back to top](#Table-of-Contents)</sup>
   
 The new and improved CMC will bring many benefits to the Travel Company which will bring them competitive advantage over other companies within the market. This technologically advanced system will save both the company and customers time. By rating customers, creating a customer profile based on predefined criteria and by specially training RMs by country in their knowledge of holiday packages, the process of matching a customer with an appropriate RM becomes extremely easy. This algorithmic match will mean that the customer experiences the best possible service for their desired needs without having to be put on hold for extensive periods of time and allows employees to serve many more customers within a working day.
 
 By having to spend less time switching across RMs and putting customers on hold, the travel company will reduce call costs. By matching customers with an appropriate RM, customers will feel as though they are receiving a personalised and educated view of the available holiday packages, putting trust into the company and thus retaining and gaining more customers. Customers will prefer to stay with the travel company as a result of their customer service and matching system rather than going to another travel company. By training employees and gaining more customers, employees will feel as though they are being kept busy with their work and are serving more customers, meaning high commission thus encouraging employees to stay on with the travel company rather than moving. This profiling of customers to help match customers with an RM within the new CMC clearly will give the Travel Company competitive advantage over other companies within the market.
 
 ### 4.2 Impact of Failure
+<sup>[back to top](#Table-of-Contents)</sup>
   
 The development of this updated CMC is crucial to the success of this major Travel Company. The impact of failure within this project will have massive repercussions on the company as well as all of its employees. Should the development of the new CMC fail, the Travel Company will continue to lose customers with the confusing current system. Since it is currently difficult for customers to access RMs and as such, difficult for them to discuss holiday options, customers will turn to other companies at an increasing rate. Losing so many customers will mean that RMs interact with less companies. Since RMs work on commission, they will begin to make less money and have much less to do at work. This will result in many employees leaving the travel company to instead search for bigger and better career opportunities in other companies.
 
@@ -454,6 +471,7 @@ By losing employees and customers, the relationships the travel company had buil
 ## Section 5: Agile Methodology
 
 ### 5.1 Scrum Activities Used and Evidence
+<sup>[back to top](#Table-of-Contents)</sup>
 
 Agile refers to a software development methodology in which the requirements elicitation and the development of those requirements progress in iterations and in smaller cross functional teams. Scrum is a form of agile methodology which introduces certain roles, artefacts and events. The most important part of scrum is the idea of sprints which is a fixed period (usually 14-30 days) to develop an iteration of the development. Each scrum team involves a product owner who is an individual that represents the end user and prioritises features, a scrum master that facilitates and manages the development and relationship between the product owner and development team and the development team which builds an increment of the product. Each scrum team involves events such as sprint planning which involves planning the amount of the backlog which will be developed for each iteration, the sprint review session which involves the product owner and development team reviewing the build that was conducted in that sprint, the daily scrum which involves status updates from the development team daily and the sprint retrospective which involves reviewing the sprint and identifying what was done right and what was done wrong. The scrum artefacts involve the product backlog which is a list of user stories that will be needed to develop the product and the sprint backlog specifies the list of user stories which will be developed in the sprint.
 
