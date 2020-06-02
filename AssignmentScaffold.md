@@ -176,7 +176,7 @@ These assumptions are as follows:
   Airline Company that is providing modes of transportation to customers
 
 - NEED  
-  To get customers to their desired location in a quick and comfortable manor
+  To get customers to their desired location in a quick and comfortable manner
 
 - INSIGHT  
   Current operation isn’t profitable enough 
