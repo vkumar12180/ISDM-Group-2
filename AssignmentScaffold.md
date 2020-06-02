@@ -427,13 +427,11 @@ _SO THAT..._ I can effectively and efficiently maintain the system
 
 ![Class Diagram](diagrams/Section3ClassDiagram.png)
 
-  3.5 Collaboration Diagrams
-  
-  Collaboration Diagram
-  ![Collaboration Diagram](diagrams/Section3CollaborationDiagramInbound.png)
-  
-  
-  ![Collaboration Diagram](diagrams/Section3CollaborationDiagramOutbound.png)
+### 3.5 Collaboration Diagrams
+
+![Collaboration Diagram](diagrams/Section3CollaborationDiagramInbound.png)
+
+![Collaboration Diagram](diagrams/Section3CollaborationDiagramOutbound.png)
   
 --- 
 
