@@ -451,23 +451,26 @@ By losing employees and customers, the relationships the travel company had buil
 
 --- 
 
-Section 5: Agile Methodology
+## Section 5: Agile Methodology
 
-  5.1 Scrum Activities Used and Evidence
-  
-  Agile refers to a software development methodology in which the requirements elicitation and the development of those requirements progress in iterations and in smaller cross functional teams. Scrum is a form of agile methodology which introduces certain roles, artefacts and events. The most important part of scrum is the idea of sprints which is a fixed period (usually 14-30 days) to develop an iteration of the development. Each scrum team involves a product owner who is an individual that represents the end user and prioritises features, a scrum master that facilitates and manages the development and relationship between the product owner and development team and the development team which builds an increment of the product. Each scrum team involves events such as sprint planning which involves planning the amount of the backlog which will be developed for each iteration, the sprint review session which involves the product owner and development team reviewing the build that was conducted in that sprint, the daily scrum which involves status updates from the development team daily and the sprint retrospective which involves reviewing the sprint and identifying what was done right and what was done wrong. The scrum artefacts involve the product backlog which is a list of user stories that will be needed to develop the product and the sprint backlog specifies the list of user stories which will be developed in the sprint.
+### 5.1 Scrum Activities Used and Evidence
+
+Agile refers to a software development methodology in which the requirements elicitation and the development of those requirements progress in iterations and in smaller cross functional teams. Scrum is a form of agile methodology which introduces certain roles, artefacts and events. The most important part of scrum is the idea of sprints which is a fixed period (usually 14-30 days) to develop an iteration of the development. Each scrum team involves a product owner who is an individual that represents the end user and prioritises features, a scrum master that facilitates and manages the development and relationship between the product owner and development team and the development team which builds an increment of the product. Each scrum team involves events such as sprint planning which involves planning the amount of the backlog which will be developed for each iteration, the sprint review session which involves the product owner and development team reviewing the build that was conducted in that sprint, the daily scrum which involves status updates from the development team daily and the sprint retrospective which involves reviewing the sprint and identifying what was done right and what was done wrong. The scrum artefacts involve the product backlog which is a list of user stories that will be needed to develop the product and the sprint backlog specifies the list of user stories which will be developed in the sprint.
 
 The group utilised the roles of product owner and scrum master. Firstly, the group members acted as product owners through the design thinking stage of the assignment. Each of us identified our stakeholders, created empathy maps and point of view statements for our stakeholder. Through creating empathy maps, we were able to understand our stakeholders and prioritise the features that should be part of the product which would maximise the value for the end user. From the point of view statements, we were able to understand the limitations of the current product which were not providing value and created a negative outlook to the stakeholder’s perception of the product and hence gave us a clearer view on what should be developed, giving us an indication on the skills of stakeholder management and prioritisation roles that a product owner would undertake. The role of scrum master was also carried out through the use of the tools on GitHub. A typical role of a scrum master would be to manage the backlog, plan and break down the work to maximise efficiency. The group undertook this role through the use of creating Issues on Github as shown in Figure 1. 
 
-Figure 1:
+_Figure 1 - Evidence of issues_ (see also: [backlog](#2.5-Backlog))
+
 ![Evidence of Issues](diagrams/Section5Figure1.png)
 
 Each issue created was labelled with the corresponding section of the assignment that the issue was related to and assigned to each person. Each issue in the issue backlog was assigned to each team member fairly and each group member would also comment on other issues that were not assigned to them to check for a status update as shown in Figure 2. 
 
-Figure 2:
+_Figure 2 - Evidence of Comments_
+
 ![Evidence of Comments](diagrams/Section5Figure2.png)
 
 Furthermore, through this issue backlog, we were able to conduct sprint planning. The group did utilise this event through coming up with issues in the issue backlog as shown in Figure 1 which identified what should be worked on for the project. Whilst the group did not meet daily due to COVID-19 restrictions, a scrum stand up was undertook each week in the tutorial sessions in where we talked about what we achieved in the issue backlog and which issues can be closed using Discord, what we will be working on next and whether there were any call-outs or problems on the work assigned. Our Discord call evidence is highlighted in Figure 3.
 
-Figure 3:
+_Figure 3 - Evidence of Discussion_
+
 ![Evidence of Discussion](diagrams/Section5Figure3.png)
