@@ -280,32 +280,27 @@ _It would be gamechanging to..._ develop a new toolset alongside an improved sys
 
 ![Brainstorm](diagrams/Section2Brainstorm.png)
  
-  2.4 Vote
+### 2.4 Vote
   
-    Most Likely To Succeed:
+**Most Likely To Succeed:**
 
-      Inbound callers interested in the Travel Company’s holiday packages will be first met with an automated phone calling system in         where they will use their phone keypad to input their travel destination and holiday type. This will be used to direct the      
-      outbound caller to the most appropriate RM. 
+Inbound callers interested in the Travel Company’s holiday packages will be first met with an automated phone calling system in where they will use their phone keypad to input their travel destination and holiday type. This will be used to direct the outbound caller to the most appropriate RM. 
 
-      We think this idea is the most practical and will provide the company the best opportunity to revitalise their business and 
-      system.
+We think this idea is the most practical and will provide the company the best opportunity to revitalise their business and 
+system.
 
-    Most Likely To Delight
+**Most Likely To Delight:**
 
-      Whilst a customer is on hold, the “hold music” is a recording of an employee discussing the featured holiday packages for the   
-      month meaning the customer is getting information as they wait rather than listening to annoying hold music.
+Whilst a customer is on hold, the “hold music” is a recording of an employee discussing the featured holiday packages for the month meaning the customer is getting information as they wait rather than listening to annoying hold music.
 
-      Hold music often gets annoying for customers so we decided that this idea is the most “likely to delight” because it will replace 
-      the fuzzy music with informative holiday packages instead to help inform their decisions.
+Hold music often gets annoying for customers so we decided that this idea is the most “likely to delight” because it will replace 
+the fuzzy music with informative holiday packages instead to help inform their decisions.
 
-    Most breakthrough: 
+**Most breakthrough:**
 
-      Relationship Managers could be specialised in certain countries and continents so that when a customer calls, they can be   
-      connected with an RM who knows extensively about that continent and has been trained by the travel company.
+Relationship Managers could be specialised in certain countries and continents so that when a customer calls, they can be connected with an RM who knows extensively about that continent and has been trained by the travel company.
 
-      This idea is the most breakthrough because it would stop RMs having to learn every single package and deal within the company.    
-      This would save a lot of money on training and it would give RMs the opportunity to truly understand the area of expertise which 
-      will help them provide excellent customer service.
+This idea is the most breakthrough because it would stop RMs having to learn every single package and deal within the company. This would save a lot of money on training and it would give RMs the opportunity to truly understand the area of expertise which will help them provide excellent customer service.
 
   2.5 Backlog
   
