@@ -485,7 +485,10 @@ Section 3: Modelling
   3.5 Collaborative Diagrams
   
   Collaboration Diagram
-  ![Collaboration Diagram](diagrams/Section3CollaborationDiagram.png)
+  ![Collaboration Diagram](diagrams/Section3CollaborationDiagramInbound.png)
+  
+  
+  ![Collaboration Diagram](diagrams/Section3CollaborationDiagramOutbound.png)
   
 Section 4: Competitive Advantage
 
